@@ -1,1 +1,2 @@
+1st line
 Branches are usually used for testing out new features without breaking a working version of the application. Since branches don’t affect each other states, the new branch can be played with without worrying about other ones. When the changes made to the new branch are deemed ready, the branch can be merged to the main branch, and thus the new features will be published. For now it suffices to understand that we will only use the main branch in the exercises.
